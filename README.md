@@ -51,7 +51,8 @@ python import_data.py
 
 ## 文件说明
 - `resources.assets`：官方资源文件（位于游戏安装目录 `Hollow Knight Silksong_Data`）。
-- `data/`：整理并保存的文本数据与翻译历史。
+- `data/`：整理并保存的文本数据与翻译历史。已经包含了20次机翻的每代结果
+- `翻译顺序.csv`机翻切换不同语言进行翻译的顺序
 - `temp_hk_modding/`：解密的原始文件与临时中间产物。
 
 ## 致谢与来源
@@ -62,4 +63,5 @@ python import_data.py
 - 请仅在拥有游戏合法副本的前提下使用本工具并遵守相关平台与法律规定。
 
 <!-- ## 联系与贡献 -->
+
 <!-- 欢迎提交 issue 或 pull request 来改进。若你有更好的翻译流程、脚本优化或自动化建议，欢迎贡献。 -->
