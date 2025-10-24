@@ -1,0 +1,19 @@
+{
+    "Baidu_APP_ID": "百度ID",
+    "Baidu_API_KEY": "百度翻译API_KEY",
+    "DECRYPTED_FILES_DIR": "temp_hk_modding/output_decrypted/",
+    "ENCRYPTED_BASE64_DIR": "temp_hk_modding/output_encrypted/",
+    "WHITELIST_FILE_PATH": "whitelist.txt",
+    "EXPORT_FILE_NAME": "localization_export.json",
+    "TRANSLATED_FILE_FORMAT": "localization_translated_v{}.json",
+    "TRANSLATION_VERSION": 20,
+    "API_BATCH_SIZE": 20,
+    "API_DELAY_SECONDS": 0.4,
+    "DECRYPTOR_TOOL_PATH":"HollowKnight_TextAssetDecryptor.exe",
+    "ORIGINAL_ASSET_PATH":"resources.assets",
+    "PACKED_ASSET_FORMAT":"output/resources_packed_v{}.assets",
+    "Tencent_Project_ID": 0,
+    "Tencent_Secret_Id": "填入TX翻译id",
+    "Tencent_Secret_Key": "填入TX翻译API",
+    "Tencent_Region": "ap-guangzhou"
+}
