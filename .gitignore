@@ -1,6 +1,7 @@
 .venv
 __pycache__
-temp_hk_modding
+# temp_hk_modding
 # output
 dotnet-runtime-8.0.21-win-x64.exe
 api.txt
+*_base64.txt

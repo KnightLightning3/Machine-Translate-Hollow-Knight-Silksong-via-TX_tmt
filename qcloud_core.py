@@ -94,7 +94,7 @@ def _make_tmt_request(TMT_ENDPOINT, headers, payload, delay, texts, attempt_numb
     如果失败，返回 None 和错误信息。
     如果成功，返回 TargetTextList。
     """
-    return ["哈基米"] * len(texts)
+    # return ["哈基米"] * len(texts)
     try:
         response = requests.post(
             f"https://{TMT_ENDPOINT}", 
